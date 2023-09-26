@@ -1,0 +1,12 @@
+C:\Users\Isabel\source\repos\Proy3\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Isabel\source\repos\Proy3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Isabel\source\repos\Proy3\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Isabel\source\repos\Proy3\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Isabel\source\repos\Proy3\CapaVista\obj\Debug\CapaVista.Segundoparcial.resources

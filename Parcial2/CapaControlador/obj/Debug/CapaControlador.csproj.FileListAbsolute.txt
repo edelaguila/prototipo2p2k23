@@ -1,0 +1,9 @@
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Isabel\source\repos\Proy3\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
