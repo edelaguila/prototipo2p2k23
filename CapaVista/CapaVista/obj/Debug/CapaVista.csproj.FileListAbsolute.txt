@@ -1,0 +1,13 @@
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.ComboInteligente.resources
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Doris\Desktop\Segundo Parcial Práctica\prototipo2p2k23\CapaVista\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
