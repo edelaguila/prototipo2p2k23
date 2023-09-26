@@ -1,0 +1,6 @@
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaModelo\obj\Debug\CapaModelo.pdb

@@ -1,0 +1,9 @@
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\d_car\OneDrive\Escritorio\UMG\4toaño\2do semestre\analisis de sistemas 2\Parcial2_DavidCarrillo_0901-20-3201\Parcial2Visual\solucionParcial2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
