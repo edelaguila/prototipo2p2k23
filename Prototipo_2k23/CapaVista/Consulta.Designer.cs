@@ -33,7 +33,7 @@ namespace CapaVista
             this.label2 = new System.Windows.Forms.Label();
             this.btn_cargar = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.combo1 = new System.Windows.Forms.ComboBox();
             this.btn_ayuda = new System.Windows.Forms.Button();
             this.btn_reporte = new System.Windows.Forms.Button();
             this.btn_salir = new System.Windows.Forms.Button();
@@ -66,6 +66,7 @@ namespace CapaVista
             this.btn_cargar.TabIndex = 2;
             this.btn_cargar.Text = "Cargar Datos";
             this.btn_cargar.UseVisualStyleBackColor = true;
+            this.btn_cargar.Click += new System.EventHandler(this.btn_cargar_Click);
             // 
             // label3
             // 
@@ -76,13 +77,13 @@ namespace CapaVista
             this.label3.TabIndex = 3;
             this.label3.Text = "Tabla: Carreras";
             // 
-            // comboBox1
+            // combo1
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(28, 206);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(227, 21);
-            this.comboBox1.TabIndex = 4;
+            this.combo1.FormattingEnabled = true;
+            this.combo1.Location = new System.Drawing.Point(28, 206);
+            this.combo1.Name = "combo1";
+            this.combo1.Size = new System.Drawing.Size(227, 21);
+            this.combo1.TabIndex = 4;
             // 
             // btn_ayuda
             // 
@@ -120,7 +121,7 @@ namespace CapaVista
             this.Controls.Add(this.btn_salir);
             this.Controls.Add(this.btn_reporte);
             this.Controls.Add(this.btn_ayuda);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.combo1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btn_cargar);
             this.Controls.Add(this.label2);
@@ -138,7 +139,7 @@ namespace CapaVista
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btn_cargar;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox combo1;
         private System.Windows.Forms.Button btn_ayuda;
         private System.Windows.Forms.Button btn_reporte;
         private System.Windows.Forms.Button btn_salir;
