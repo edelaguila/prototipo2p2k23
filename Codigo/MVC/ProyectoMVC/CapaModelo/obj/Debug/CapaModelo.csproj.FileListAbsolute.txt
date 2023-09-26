@@ -1,0 +1,6 @@
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaModelo\obj\Debug\CapaModelo.pdb

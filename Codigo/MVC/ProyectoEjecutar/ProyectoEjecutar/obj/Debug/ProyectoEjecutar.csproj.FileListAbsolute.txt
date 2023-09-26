@@ -1,0 +1,16 @@
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\ProyectoEjecutar.exe.config
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\ProyectoEjecutar.exe
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\ProyectoEjecutar.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaVista.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaControlador.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaVista.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaControlador.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.csproj.AssemblyReference.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.Properties.Resources.resources
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.csproj.GenerateResource.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.csproj.CoreCompileInputs.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.csproj.CopyComplete
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.exe
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\obj\Debug\ProyectoEjecutar.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaModelo.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoEjecutar\ProyectoEjecutar\bin\Debug\CapaModelo.pdb

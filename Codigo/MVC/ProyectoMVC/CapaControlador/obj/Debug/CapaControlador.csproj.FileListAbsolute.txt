@@ -1,0 +1,9 @@
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\gazhp\OneDrive\Desktop\umg\talleres_as2\MVC\ProyectoMVC\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
