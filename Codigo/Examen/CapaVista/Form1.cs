@@ -18,16 +18,17 @@ namespace CapaVista
         {
             this.ctrl = new Controlador();
             InitializeComponent();
-            this.fillData();
         }
 
         public void fillData()
         {
             List<string> tbls = this.ctrl.getList();
-            foreach (string str in tbls)
-            {
-                this.combo.Items.Add(str);
-            }
+            foreach (string str in tbls) this.combo.Items.Add(str);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.fillData();
         }
     }
 }
