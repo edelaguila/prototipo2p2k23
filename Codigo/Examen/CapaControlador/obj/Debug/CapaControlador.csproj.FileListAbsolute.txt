@@ -1,0 +1,9 @@
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\olste\Desktop\prototipo2p2k23\Codigo\Examen\CapaControlador\obj\Debug\CapaControlador.pdb
