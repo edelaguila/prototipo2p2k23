@@ -1,0 +1,12 @@
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\bin\Debug\ejecucion.exe.config
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\bin\Debug\ejecucion.exe
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\bin\Debug\ejecucion.pdb
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\bin\Debug\CapaVista.dll
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.Properties.Resources.resources
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.GenerateResource.cache
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.CopyComplete
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.exe
+C:\Users\Luis\Desktop\2parcial\ejecucion\ejecucion\obj\Debug\ejecucion.pdb

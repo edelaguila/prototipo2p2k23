@@ -1,0 +1,11 @@
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.Alumno.resources
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache

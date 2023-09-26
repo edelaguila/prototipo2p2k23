@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.dll
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.pdb
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.dll
+C:\Users\Luis\Desktop\2parcial\Segundo Parcial\Segundo Parcial\obj\Debug\Segundo Parcial.pdb
