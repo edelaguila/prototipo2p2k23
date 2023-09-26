@@ -1,0 +1,6 @@
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\elayn\Documents\Danny U\prototipo2p2k23\Codigo\ExamenParcial2\CapaModelo\obj\Debug\CapaModelo.pdb
