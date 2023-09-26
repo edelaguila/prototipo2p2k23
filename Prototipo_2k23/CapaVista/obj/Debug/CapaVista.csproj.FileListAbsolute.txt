@@ -9,3 +9,5 @@ C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\bin\Debug
 C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\bin\Debug\CapaModelo.dll
 C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\ERICK\Desktop\Examen\prototipo2p2k23\Prototipo_2k23\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
