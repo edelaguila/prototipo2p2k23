@@ -1,0 +1,6 @@
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaModelo\obj\Debug\CapaModelo.pdb

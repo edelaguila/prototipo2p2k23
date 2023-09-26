@@ -1,0 +1,17 @@
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\ExamenMaster.exe.config
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\ExamenMaster.exe
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\ExamenMaster.pdb
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaVista.dll
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaControlado.dll
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaModelo.dll
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaVista.pdb
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaControlado.pdb
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\bin\Debug\CapaModelo.pdb
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.csproj.AssemblyReference.cache
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.Form1.resources
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.Properties.Resources.resources
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.csproj.GenerateResource.cache
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.csproj.CoreCompileInputs.cache
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.csproj.CopyComplete
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.exe
+C:\Users\BEST COMPUTER\source\repos\ExamenMaster\ExamenMaster\obj\Debug\ExamenMaster.pdb

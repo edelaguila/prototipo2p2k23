@@ -1,0 +1,1 @@
+INSERT INTO `maestros`(`codigo_maestro`, `nombre_maestro`, `direccion_maestro`, `telefono_maetro`, `email_maestro`, `estatus_maestro`) VALUES ('123','Juan','ciudad','7981798','a@gmail.com','1')

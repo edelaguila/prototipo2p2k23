@@ -1,0 +1,9 @@
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\bin\Debug\CapaControlado.dll
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\bin\Debug\CapaControlado.pdb
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\obj\Debug\CapaControlado.dll
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\obj\Debug\CapaControlado.pdb
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\bin\Debug\CapaModelo.dll
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\bin\Debug\CapaModelo.pdb
+C:\Users\BEST COMPUTER\source\repos\Examen2\CapaControlado\obj\Debug\CapaControlador.csproj.CopyComplete
