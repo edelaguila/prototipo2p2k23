@@ -27,5 +27,20 @@ namespace Ejecutable_0901_20_2841
         {
             Help.ShowHelp(this, "Ayuda/AyudaAS2.chm", "Ayuda2p2.html");
         }
+
+        private void combo1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btn_Salir_Click(object sender, EventArgs e)
+        {
+           
+        }
     }
 }

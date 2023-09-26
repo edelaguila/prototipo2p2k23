@@ -45,6 +45,7 @@ namespace Ejecutable_0901_20_2841
             this.combo1.Name = "combo1";
             this.combo1.Size = new System.Drawing.Size(316, 25);
             this.combo1.TabIndex = 0;
+            this.combo1.Load += new System.EventHandler(this.combo1_Load);
             // 
             // label1
             // 
@@ -81,6 +82,7 @@ namespace Ejecutable_0901_20_2841
             this.button1.TabIndex = 4;
             this.button1.Text = "Cargar datos";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -110,6 +112,7 @@ namespace Ejecutable_0901_20_2841
             this.btn_Salir.TabIndex = 7;
             this.btn_Salir.Text = "Salir";
             this.btn_Salir.UseVisualStyleBackColor = true;
+            this.btn_Salir.Click += new System.EventHandler(this.btn_Salir_Click);
             // 
             // Form1
             // 
