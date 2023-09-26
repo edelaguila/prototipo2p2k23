@@ -1,0 +1,25 @@
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaVidts.dll
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaVidts.pdb
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\obj\Debug\CapaVidts.dll
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\obj\Debug\CapaVidts.pdb
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaControlador.dll
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.CopyComplete
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Practicas de analisis\DLL\CapaVidts\CapaVidts\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\bin\Debug\CapaVidts.dll
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\bin\Debug\CapaVidts.pdb
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\bin\Debug\CapaModelo.dll
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\bin\Debug\CapaControlador.pdb
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\bin\Debug\CapaModelo.pdb
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.Form1.resources
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.csproj.CopyComplete
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.dll
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.pdb
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.ControldeAyuda.resources
+C:\Users\linri\Desktop\Examen parcial\prototipo2p2k23\Codigo\CapaVidts\CapaVidts\obj\Debug\CapaVidts.Properties.Resources.resources
