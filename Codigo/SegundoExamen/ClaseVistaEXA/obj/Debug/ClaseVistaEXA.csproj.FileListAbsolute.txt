@@ -1,0 +1,15 @@
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\ClaseVistaEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\ClaseVistaEXA.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.csproj.AssemblyReference.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.csproj.CoreCompileInputs.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaVista.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaControlador.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaModelo.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaVista.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaControlador.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\bin\Debug\CapaModelo.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.formulario.resources
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.csproj.GenerateResource.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseVistaEXA\obj\Debug\ClaseVistaEXA.csproj.CopyComplete

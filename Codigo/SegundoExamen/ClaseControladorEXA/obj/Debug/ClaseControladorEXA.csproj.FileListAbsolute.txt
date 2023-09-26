@@ -1,0 +1,6 @@
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\bin\Debug\ClaseControladorEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\bin\Debug\ClaseControladorEXA.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\obj\Debug\ClaseControladorEXA.csproj.AssemblyReference.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\obj\Debug\ClaseControladorEXA.csproj.CoreCompileInputs.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\obj\Debug\ClaseControladorEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseControladorEXA\obj\Debug\ClaseControladorEXA.pdb

@@ -1,0 +1,6 @@
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\bin\Debug\ClaseModeloEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\bin\Debug\ClaseModeloEXA.pdb
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\obj\Debug\ClaseModeloEXA.csproj.AssemblyReference.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\obj\Debug\ClaseModeloEXA.csproj.CoreCompileInputs.cache
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\obj\Debug\ClaseModeloEXA.dll
+C:\Users\rayju\source\repos\SegundoExamen\ClaseModeloEXA\obj\Debug\ClaseModeloEXA.pdb
