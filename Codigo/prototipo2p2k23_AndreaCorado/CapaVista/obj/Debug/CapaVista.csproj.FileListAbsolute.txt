@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UMG\4to. año u\8ta. semestre\Analisis de sistamas II\prototipo2p2k23\Codigo\prototipo2p2k23_AndreaCorado\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
