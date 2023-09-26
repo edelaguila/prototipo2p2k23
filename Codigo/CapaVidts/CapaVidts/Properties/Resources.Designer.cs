@@ -59,5 +59,45 @@ namespace CapaVidts.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2023_09_26_at_9_40_29_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2023-09-26 at 9.40.29 AM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2023_09_26_at_9_40_35_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2023-09-26 at 9.40.35 AM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2023_09_26_at_9_40_44_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2023-09-26 at 9.40.44 AM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2023_09_26_at_9_40_51_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2023-09-26 at 9.40.51 AM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

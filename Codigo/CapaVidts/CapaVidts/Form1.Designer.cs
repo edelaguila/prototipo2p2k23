@@ -30,6 +30,7 @@ namespace CapaVidts
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.dgv_prueba = new System.Windows.Forms.DataGridView();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
@@ -38,7 +39,6 @@ namespace CapaVidts
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.dgv_prueba = new System.Windows.Forms.DataGridView();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_prueba)).BeginInit();
             this.SuspendLayout();
@@ -59,6 +59,16 @@ namespace CapaVidts
             this.panel1.Size = new System.Drawing.Size(1036, 655);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // dgv_prueba
+            // 
+            this.dgv_prueba.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dgv_prueba.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgv_prueba.Location = new System.Drawing.Point(72, 265);
+            this.dgv_prueba.Name = "dgv_prueba";
+            this.dgv_prueba.Size = new System.Drawing.Size(215, 10);
+            this.dgv_prueba.TabIndex = 35;
+            this.dgv_prueba.Visible = false;
             // 
             // comboBox1
             // 
@@ -105,6 +115,7 @@ namespace CapaVidts
             this.button2.TabIndex = 3;
             this.button2.Text = "Ayuda";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -114,6 +125,7 @@ namespace CapaVidts
             this.button1.TabIndex = 2;
             this.button1.Text = "Cargar datos";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label2
             // 
@@ -134,16 +146,6 @@ namespace CapaVidts
             this.label1.Size = new System.Drawing.Size(381, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Joselyne Aracely Rivera Cifuentes ";
-            // 
-            // dgv_prueba
-            // 
-            this.dgv_prueba.BackgroundColor = System.Drawing.SystemColors.Control;
-            this.dgv_prueba.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv_prueba.Location = new System.Drawing.Point(72, 265);
-            this.dgv_prueba.Name = "dgv_prueba";
-            this.dgv_prueba.Size = new System.Drawing.Size(215, 10);
-            this.dgv_prueba.TabIndex = 35;
-            this.dgv_prueba.Visible = false;
             // 
             // Form1
             // 

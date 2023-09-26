@@ -78,5 +78,26 @@ namespace CapaVidts
             }
             con.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //CapaControlador.Controlador crud = new CapaControlador.Controlador();
+            //bool resultado = crud.InsertBusqueda(comboBox1.Text, null);
+
+            //if (resultado)
+
+            //{
+            //    MessageBox.Show("Datos guardados");
+            //}
+
+            //comboBox1.Text = (comboBox1.Text + "+");
+            //string columnasbd = comboBox1.Text;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ControldeAyuda ayuda = new ControldeAyuda();
+            ayuda.Show();
+        }
     }
 }
