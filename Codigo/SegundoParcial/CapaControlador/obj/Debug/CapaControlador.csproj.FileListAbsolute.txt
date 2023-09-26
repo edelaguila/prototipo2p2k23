@@ -1,0 +1,9 @@
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\jimen\OneDrive\Escritorio\Jimena\Universidad\2023\Segundo Semestre\Análisis de Sistemas 2\Segundo Parcial\prototipo2p2k23\Codigo\SegundoParcial\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
